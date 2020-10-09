@@ -19,7 +19,6 @@ public class main {
             System.out.println("float h1 = " + h1 + ";\n" + "double d1 = " + d1 + ";\n");
             System.out.println("char c1 = " + c1 + ";\n");
         }
-
         // Задание 3
         static float calculate( float a, float b, float c, float d,){
             System.out.println("/n Task 3.");
